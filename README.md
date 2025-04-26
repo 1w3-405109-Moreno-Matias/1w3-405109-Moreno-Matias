@@ -12,7 +12,7 @@ I am 23 years old, I am a programming student and I have knowledge in web develo
 
 ## Projects carried out
 
-- 🔗[Tienda PANTHER](https://github.com/MatiasMoreno405109/Trabajo-coder/deployments/github-pages)
+- 🔗[Tienda PANTHER]([https://github.com/MatiasMoreno405109/Trabajo-coder/deployments/github-pages](https://matiasmoreno405109.github.io/Trabajo-coder/))
 - 📂 [Ver código en GitHub](https://github.com/MatiasMoreno405109/Trabajo-coder.git)
 
 # Contact me

@@ -1,7 +1,24 @@
-# Hola👋🏽 Soy Matías Gastón Moreno
+<div align="center"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height = 250px width = 60%  /></div>
+
+<h2 align="center"> Hola soy Matías Gaston Moreno <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
 ## Acerca de mí
-Soy estudiante de programación en la Universidad Tecnológica Nacional(UTN) Argnetina y tengo conocimientos en desarrollo web con tecnologías front-end y back-end.
+Soy estudiante de programación en la Universidad Tecnológica Nacional(UTN) Argnetina. Busco oportunidades de trabajo en empresas innovadoras de renombre. Me fascina resolver problemas y aceptar nuevos retos.
+
+<img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+
+**Hablando de educación/habilidades:** 
+-  Desarrollo Web en CoderHouse (38 hs)
+-  JavaScript en CoderHouse (20 hs)
+-  Aprendizaje y desarrollo web.
+-  JavaScript, C#
+-  Html, CSS, Java Script, BootStrap
+-  SQLServer
+
+- 💬 Pregúntame cualquier cosa, estaré encantado de ayudarte.
+- 📫 Cómo contactarme: matiasmoreno351@gmail.com
+
+&nbsp;
 ## Tecnologías que uso
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,9 +38,8 @@ Soy estudiante de programación en la Universidad Tecnológica Nacional(UTN) Arg
 - 🔗[Tienda PANTHER](https://matiasmoreno405109.github.io/Trabajo-coder/)
 - 📂 [Ver código en GitHub](https://github.com/MatiasMoreno405109/Trabajo-coder.git)
 
-# Contactame
+# Redes
 
-- Email: matiasmoreno351@gmail.com
 - 📸 Instagram: [@matii_moreno__](https://www.instagram.com/matii_moreno__/)
 
 # Actualmente aprendiendo

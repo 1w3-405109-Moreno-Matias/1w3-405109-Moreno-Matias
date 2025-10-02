@@ -1,7 +1,7 @@
 # Hola👋🏽 Soy Matías Gastón Moreno
 
+## Acerca de mí
 Soy estudiante de programación en la Universidad Tecnológica Nacional(UTN) Argnetina y tengo conocimientos en desarrollo web con tecnologías front-end y back-end.
-
 ## Tecnologías que uso
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -12,6 +12,7 @@ Soy estudiante de programación en la Universidad Tecnológica Nacional(UTN) Arg
 
 ### Backend
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+### Base de Datos
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 

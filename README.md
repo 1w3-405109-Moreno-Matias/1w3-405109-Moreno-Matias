@@ -32,16 +32,23 @@ Soy estudiante de programación en la Universidad Tecnológica Nacional(UTN) Arg
 ### Base de Datos
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-
 ## Proyectos realizados
 
 - 🔗[Tienda PANTHER](https://matiasmoreno405109.github.io/Trabajo-coder/)
 - 📂 [Ver código en GitHub](https://github.com/MatiasMoreno405109/Trabajo-coder.git)
 
 # Redes
+<dvi aling="Center">
+  <a href="[https://mail.google.com/mail/u/1/#inbox](https://www.linkedin.com/in/matias-moreno-94268a363/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+  <a><img></img></a>
+  <a><img></img></a>
+</dvi>
 
-- 📸 Instagram: [@matii_moreno__](https://www.instagram.com/matii_moreno__/)
 
-# Actualmente aprendiendo
+
+#Actualmente aprendiendo
 
 Actualmente estoy aprendiendo desarrollo full-stack y mejorando mis habilidades en C# y bases de datos.
+
+
+

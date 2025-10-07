@@ -40,8 +40,7 @@ Soy estudiante de programación en la Universidad Tecnológica Nacional(UTN) Arg
 # Redes
 <dvi aling="Center">
   <a href="[https://mail.google.com/mail/u/1/#inbox](https://www.linkedin.com/in/matias-moreno-94268a363/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-  <a><img></img></a>
-  <a><img></img></a>
+  <a href="https://www.instagram.com/matii_moreno__/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
 </dvi>
 
 

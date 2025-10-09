@@ -28,7 +28,7 @@ I'm a programming student at the National Technological University (UTN) in Arge
 
 ### Backend
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-### Base de Datos
+### Database
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ## Projects carried out

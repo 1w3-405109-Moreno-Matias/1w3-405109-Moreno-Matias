@@ -10,9 +10,10 @@ I'm a programming student at the National Technological University (UTN) in Arge
 **Speaking of education/skills:** 
 -  Web Development in CoderHouse (38 hs)
 -  JavaScript in CoderHouse (20 hs)
--  JavaScript, C#
--  Html, CSS, Java Script, BootStrap
+-  C#
+-  Html, CSS, BootStrap
 -  SQLServer
+- .NET
 
 - 💬 Ask me anything, I'll be happy to help.
 - 📫 How to contact me: matiasmoreno351@gmail.com

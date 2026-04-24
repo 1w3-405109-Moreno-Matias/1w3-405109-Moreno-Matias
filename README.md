@@ -32,11 +32,6 @@ I'm a programming student at the National Technological University (UTN) in Arge
 ### Database
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-## Projects carried out
-
-- 🔗[Tienda PANTHER](https://matiasmoreno405109.github.io/Trabajo-coder/)
-- 📂 [Ver código en GitHub](https://github.com/MatiasMoreno405109/Trabajo-coder.git)
-
 # Social networks
 <dvi aling="Center">
   <a href="[https://mail.google.com/mail/u/1/#inbox](https://www.linkedin.com/in/matias-moreno-94268a363/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
